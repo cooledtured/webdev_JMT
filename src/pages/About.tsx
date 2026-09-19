@@ -8,7 +8,7 @@ export default function About() {
       <section className="about__layout">
         <div className="about__photo-block">
           <div className="about__photo">
-            <img src="/jmtorres.png" alt="Jose Manuel Torres" />
+            <img src="/jmtorres.jpg" alt="Jose Manuel Torres" />
           </div>
 
           <a

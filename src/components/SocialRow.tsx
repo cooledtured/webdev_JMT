@@ -7,12 +7,12 @@ import "./SocialRow.css";
 const SOCIALS = [
   {
     label: "Call",
-    href: "tel:+1-813-000-0000",
+    href: "tel:+1-954-809-1100",
     icon: phoneIcon,
   },
   {
     label: "Email",
-    href: "mailto:hello@jm-torres.com",
+    href: "mailto:josemanuelttorres@gmail.com",
     icon: emailIcon,
   },
   {
